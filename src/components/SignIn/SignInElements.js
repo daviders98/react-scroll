@@ -44,9 +44,6 @@ export const Icon = styled(Link)`
 
 export const FormContent = styled.div`
     height:100%;
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
 
     @media screen and (max-width:480px){
         padding:10px;
